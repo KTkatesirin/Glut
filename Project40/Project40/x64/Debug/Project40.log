@@ -1,0 +1,18 @@
+﻿  Source.cpp
+C:\Users\ASUS\source\repos\Project40\Project40\Source.cpp(16,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\source\repos\Project40\Project40\Source.cpp(23,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\source\repos\Project40\Project40\Source.cpp(30,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\source\repos\Project40\Project40\Source.cpp(45,12): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ASUS\source\repos\Project40\Project40\Source.cpp(46,12): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ASUS\source\repos\Project40\Project40\Source.cpp(66,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\source\repos\Project40\Project40\Source.cpp(73,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\source\repos\Project40\Project40\Source.cpp(80,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\source\repos\Project40\Project40\Source.cpp(193,34): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\Project40\Project40\Source.cpp(198,34): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\Project40\Project40\Source.cpp(204,34): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\Project40\Project40\Source.cpp(209,34): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\Project40\Project40\Source.cpp(244,46): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\source\repos\Project40\Project40\Source.cpp(266,45): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\source\repos\Project40\Project40\Source.cpp(268,45): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\source\repos\Project40\Project40\Source.cpp(279,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project40.vcxproj -> C:\Users\ASUS\source\repos\Project40\x64\Debug\Project40.exe
