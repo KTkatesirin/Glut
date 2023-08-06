@@ -1,0 +1,29 @@
+c:\users\katesirin\source\repos\AdvancedABC\AdvancedABC\bin\Debug\AdvancedABC.exe.config
+c:\users\katesirin\source\repos\AdvancedABC\AdvancedABC\bin\Debug\AdvancedABC.exe
+c:\users\katesirin\source\repos\AdvancedABC\AdvancedABC\bin\Debug\AdvancedABC.pdb
+c:\users\katesirin\source\repos\AdvancedABC\AdvancedABC\obj\Debug\AdvancedABC.csprojAssemblyReference.cache
+c:\users\katesirin\source\repos\AdvancedABC\AdvancedABC\obj\Debug\AdvancedABC.Properties.Resources.resources
+c:\users\katesirin\source\repos\AdvancedABC\AdvancedABC\obj\Debug\AdvancedABC.csproj.GenerateResource.cache
+c:\users\katesirin\source\repos\AdvancedABC\AdvancedABC\obj\Debug\AdvancedABC.csproj.CoreCompileInputs.cache
+c:\users\katesirin\source\repos\AdvancedABC\AdvancedABC\obj\Debug\AdvancedABC.exe
+c:\users\katesirin\source\repos\AdvancedABC\AdvancedABC\obj\Debug\AdvancedABC.pdb
+c:\users\katesirin\source\repos\AdvancedABC\AdvancedABC\obj\Debug\AdvancedABC.Form1.resources
+C:\Users\ASUS\Desktop\AdvancedABC\AdvancedABC\bin\Debug\AdvancedABC.exe.config
+C:\Users\ASUS\Desktop\AdvancedABC\AdvancedABC\bin\Debug\AdvancedABC.exe
+C:\Users\ASUS\Desktop\AdvancedABC\AdvancedABC\bin\Debug\AdvancedABC.pdb
+C:\Users\ASUS\Desktop\AdvancedABC\AdvancedABC\obj\Debug\AdvancedABC.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\AdvancedABC\AdvancedABC\obj\Debug\AdvancedABC.Form1.resources
+C:\Users\ASUS\Desktop\AdvancedABC\AdvancedABC\obj\Debug\AdvancedABC.Properties.Resources.resources
+C:\Users\ASUS\Desktop\AdvancedABC\AdvancedABC\obj\Debug\AdvancedABC.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\AdvancedABC\AdvancedABC\obj\Debug\AdvancedABC.exe
+C:\Users\ASUS\Desktop\AdvancedABC\AdvancedABC\obj\Debug\AdvancedABC.pdb
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\AdvancedABC\AdvancedABC\bin\Debug\AdvancedABC.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\AdvancedABC\AdvancedABC\bin\Debug\AdvancedABC.exe
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\AdvancedABC\AdvancedABC\bin\Debug\AdvancedABC.pdb
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\AdvancedABC\AdvancedABC\obj\Debug\AdvancedABC.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\AdvancedABC\AdvancedABC\obj\Debug\AdvancedABC.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\AdvancedABC\AdvancedABC\obj\Debug\AdvancedABC.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\AdvancedABC\AdvancedABC\obj\Debug\AdvancedABC.exe
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\AdvancedABC\AdvancedABC\obj\Debug\AdvancedABC.pdb
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\AdvancedABC\AdvancedABC\obj\Debug\AdvancedABC.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\AdvancedABC\AdvancedABC\obj\Debug\AdvancedABC.csproj.CoreCompileInputs.cache
