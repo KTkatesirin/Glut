@@ -1,0 +1,10 @@
+C:\Users\Kates\source\Projects2018\CompleteCropRAG11\CompleteCrop\obj\Debug\CompleteCropRAG11.csprojAssemblyReference.cache
+C:\Users\Kates\source\Projects2018\CompleteCropRAG11\CompleteCrop\obj\Debug\CompleteCrop.Form1.resources
+C:\Users\Kates\source\Projects2018\CompleteCropRAG11\CompleteCrop\obj\Debug\CompleteCrop.Properties.Resources.resources
+C:\Users\Kates\source\Projects2018\CompleteCropRAG11\CompleteCrop\obj\Debug\CompleteCropRAG11.csproj.GenerateResource.cache
+C:\Users\Kates\source\Projects2018\CompleteCropRAG11\CompleteCrop\obj\Debug\CompleteCropRAG11.csproj.CoreCompileInputs.cache
+C:\Users\Kates\source\Projects2018\CompleteCropRAG11\CompleteCrop\obj\Debug\CompleteCrop.exe
+C:\Users\Kates\source\Projects2018\CompleteCropRAG11\CompleteCrop\obj\Debug\CompleteCrop.pdb
+C:\Users\Kates\source\Projects2018\CompleteCropRAG11\CompleteCrop\bin\Debug\CompleteCrop.exe.config
+C:\Users\Kates\source\Projects2018\CompleteCropRAG11\CompleteCrop\bin\Debug\CompleteCrop.exe
+C:\Users\Kates\source\Projects2018\CompleteCropRAG11\CompleteCrop\bin\Debug\CompleteCrop.pdb

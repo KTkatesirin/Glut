@@ -1,0 +1,10 @@
+C:\Users\Kates\source\Inner09\CompleteCrop12C409ABCEsame\CompleteCrop\bin\Debug\CompleteCrop.exe.config
+C:\Users\Kates\source\Inner09\CompleteCrop12C409ABCEsame\CompleteCrop\bin\Debug\CompleteCrop.exe
+C:\Users\Kates\source\Inner09\CompleteCrop12C409ABCEsame\CompleteCrop\bin\Debug\CompleteCrop.pdb
+C:\Users\Kates\source\Inner09\CompleteCrop12C409ABCEsame\CompleteCrop\obj\Debug\CompleteCrop12C409ABCEsame.csprojAssemblyReference.cache
+C:\Users\Kates\source\Inner09\CompleteCrop12C409ABCEsame\CompleteCrop\obj\Debug\CompleteCrop.Form1.resources
+C:\Users\Kates\source\Inner09\CompleteCrop12C409ABCEsame\CompleteCrop\obj\Debug\CompleteCrop.Properties.Resources.resources
+C:\Users\Kates\source\Inner09\CompleteCrop12C409ABCEsame\CompleteCrop\obj\Debug\CompleteCrop12C409ABCEsame.csproj.GenerateResource.cache
+C:\Users\Kates\source\Inner09\CompleteCrop12C409ABCEsame\CompleteCrop\obj\Debug\CompleteCrop12C409ABCEsame.csproj.CoreCompileInputs.cache
+C:\Users\Kates\source\Inner09\CompleteCrop12C409ABCEsame\CompleteCrop\obj\Debug\CompleteCrop.exe
+C:\Users\Kates\source\Inner09\CompleteCrop12C409ABCEsame\CompleteCrop\obj\Debug\CompleteCrop.pdb
